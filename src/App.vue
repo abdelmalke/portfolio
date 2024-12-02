@@ -5,7 +5,7 @@
         <div class="flex items-center justify-between h-16">
           <!-- Logo -->
           <div class="flex-shrink-0">
-            <router-link to="/" class="text-xl font-bold text-blue-400">Srdina</router-link>
+            <router-link to="/" class="text-xl font-bold text-blue-400">MSI</router-link>
           </div>
           
           <!-- Desktop Menu -->
